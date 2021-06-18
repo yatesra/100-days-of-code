@@ -77,16 +77,26 @@ I worked on my Scratch project for CS50x. It requires a lot of planning and desi
 **Thoughts**:
 I don't really like Scratch, the colors make it seem less intimidating but it definately has a big learning curve.
 
-**Link to Work**
+**Link to Work**:
 https://scratch.mit.edu/projects/545399253/editor
 
 
-**Day 9: June 16th**
+**Day 9: June 16th, 2021**:
 I worked on my Tribute page project for FreeCodeCamp. I passed the user stories in the test suite 10/10.
 
 
-**Thoughts** 
+**Thoughts**:
 HTML is easy and this project is simple. I dragged my feet.
 
 **Link to work**:
 https://codepen.io/yatesra/pen/JjWwGaL
+
+
+**Day 10: June 17th, 2021**:
+I added CSS styling to my finished tribute page before submitting my project.
+
+**Thoughts**:
+CSS is not really so fun to me but today it did not feel so tedious. I actually came out with something I was happy with.
+
+**Link to work**:
+https://codepen.io/yatesra/full/JjWwGaL
