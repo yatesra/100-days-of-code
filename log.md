@@ -99,4 +99,4 @@ I added CSS styling to my finished tribute page before submitting my project.
 CSS is not really so fun to me but today it did not feel so tedious. I actually came out with something I was happy with.
 
 **Link to work**:
-https://codepen.io/yatesra/full/JjWwGaL
+https://codepen.io/yatesra/full/JjWwGaL 
