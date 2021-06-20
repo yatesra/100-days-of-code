@@ -102,10 +102,21 @@ CSS is not really so fun to me but today it did not feel so tedious. I actually 
 https://codepen.io/yatesra/full/JjWwGaL
 
 
-### Day 11: June 18th, 2021**
+### Day 11: June 18th, 2021
 I started my survey form project for freecodecamp.
 
 **Thought**: I am excited to start a project that lets my practice javascript too.
 
 **Link to work**:
 https://codepen.io/yatesra/pen/wvJOObr
+
+
+### Day 12: June 19th, 2021
+I used html to make forms for this survey form project. 
+
+**Thoughts**:
+I'm not really used to class attributes so it was unfamiliar to me.
+
+
+
+**Link to work**: https://codepen.io/yatesra/pen/wvJOObr
