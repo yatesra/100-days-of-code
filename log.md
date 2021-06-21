@@ -120,3 +120,16 @@ I'm not really used to class attributes so it was unfamiliar to me.
 
 
 **Link to work**: https://codepen.io/yatesra/pen/wvJOObr
+
+
+
+### Day 13: June 20th, 2021
+
+I completed 3 more of my user stories for my survey and focused on a drop down form.
+
+**Thoughts**:
+It was a little boring working on the other types of forms.
+
+
+**Link to work**:
+https://codepen.io/yatesra/pen/abJxREw
