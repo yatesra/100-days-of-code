@@ -133,3 +133,14 @@ It was a little boring working on the other types of forms.
 
 **Link to work**:
 https://codepen.io/yatesra/pen/abJxREw
+
+
+### Day 14: June 21st, 2021
+
+I completed 17/17 of my user stories for my  survey project on FreeCodeCamp.
+
+**Thoughts**:
+Today I was in "flow", I tried hard to type repeat code out instead of copy + pasting it.
+
+**Link to work**:
+https://codepen.io/yatesra/pen/abJxREw
