@@ -4,7 +4,7 @@ I'm back with a better attitude and more will. I added a goals section that I sa
 set my intentions for the next 100 days. I will be as realistic as possible and may add more goals I am comfortable( or uncomfortable) with. 
 If I don't complete them that's ok! I'll just add them in my round 2 the challange.
 
-##Goals ***NOT*** in any particular order
+## Goals ***NOT*** in any particular order
 
 -----------------------------
 
