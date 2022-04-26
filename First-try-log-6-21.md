@@ -144,3 +144,9 @@ Today I was in "flow", I tried hard to type repeat code out instead of copy + pa
 
 **Link to work**:
 https://codepen.io/yatesra/pen/abJxREw
+
+
+
+# This was my first attempt to the #100daysofcode challange. I am re-entering the challange today 4/26/22, but will keep this log up as a reflection of my past attempt, setbacks, where I could have been now if I kept up, but ultimately, a reminder that it is ok to keep trying. 
+
+# I continued to code/study since my last commit sporadically and I see things in this log I found confusing back then that I now understand. I'm grateful I kept this record and will keep it as my testament to always push forward. My journey can also be followed at @Rochelle_codes.
