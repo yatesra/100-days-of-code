@@ -15,7 +15,7 @@ April 26th, 2022
  
 4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
 
-5.~~I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will ***NOT*** count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))~~ Sorry no. Pushing myself to code was a big challange for me and the reason I failed this challange in the first place. Any work made in good faith effort towards my progress will be counted as such. However, I will do my best to code organically.
+5.~~I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will ***NOT*** count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))~~ Sorry no. Pushing myself to code was a big challange for me and the reason I failed this challange in the first place. Any writing of code (even through a tutorial) made in good faith effort towards my progress will be counted as such. However, I will do my best to code organically.
 
 
 ## Ideas to make this challenge more effective
