@@ -55,7 +55,7 @@ If I don't complete them that's ok! I'll just add them in my round 2 the challan
 
 **Thoughts:** It was starting a project that was heavely focused on JS; it's what I am least comfortable with out of the 3 languages I know. My code kept messing up and though I was able to get the errors to disappear. The game didn't work! I will have to see what I did wrong. Many programmers say you must do instead of just watching when it comes to programming, even if you don't understand, but it all just felt like I was copying info down( I didn't copy + paste) and dropping it in VSCode. I hope the "learning" happens soon.
 
-I also had a problem with Github; I tried to push my folders through VSCode extension to a repo I already made and it would not let me even though it said I could. It kept seeing it as me trying to make a new repo with a name I already had for the repo I made before creating those folders *\sigh*\ idk.. I'll try manually adding it next time but I'll definately need to figure out why the way I did it didn't work.
+I also had a problem with Github; I tried to push my folders through VSCode extension to a repo I already made and it would not let me even though it said I could. It kept seeing it as me trying to make a new repo with a name I already had for the repo I made before creating those folders \*sigh*\ idk.. I'll try manually adding it next time but I'll definately need to figure out why the way I did it didn't work.
 
 
 **Link to work:** [Whac-a-mole](https://github.com/yatesra/JS-Practice-Whac-a-Mole)
