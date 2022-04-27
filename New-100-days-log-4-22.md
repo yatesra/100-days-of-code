@@ -51,13 +51,14 @@ If I don't complete them that's ok! I'll just add them in my round 2 the challan
 ### Day 1: Tuesday, April 26, 2022 
 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked on a practice JS project, creating a gam of "Whac-a-Mole" by following a tutorial.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** It was starting a project that was heavely focused on JS; it's what I am least comfortable with out of the 3 languages I know. My code kept messing up and though I was able to get the errors to disappear. The game didn't work! I will have to see what I did wrong. Many programmers say you must do instead of just watching when it comes to programming, even if you don't understand, but it all just felt like I was copying info down( I didn't copy + paste) and dropping it in VSCode. I hope the "learning" happens soon.
 
-**Goals:**
+I also had a problem with Github; I tried to push my folders through VSCode extension to a repo I already made and it would not let me even though it said I could. It kept seeing it as me trying to make a new repo with a name I already had for the repo I made before creating those folders *\sigh*\ idk.. I'll try manually adding it next time but I'll definately need to figure out why the way I did it didn't work.
 
-**Link to work:** [Calculator App](http://www.example.com)
+
+**Link to work:** [Whac-a-mole](https://github.com/yatesra/JS-Practice-Whac-a-Mole)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
@@ -70,16 +71,4 @@ but I managed to figure out some basic functionality.
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of
-attempts and hours spent.
-
-
-
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
