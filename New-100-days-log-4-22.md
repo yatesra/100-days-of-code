@@ -20,6 +20,8 @@ If I don't complete them that's ok! I'll just add them in my round 2 the challan
 
 \-Finish Mimo's Python path
 
+\-Finish CS50x
+
 \-Start and complete 3 personal projects
 
 \-Code the files for my portfolio website
