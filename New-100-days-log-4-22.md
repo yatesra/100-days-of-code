@@ -62,15 +62,14 @@ I also had a problem with Github; I tried to push my folders through VSCode exte
 
 **Link to work:** [Whac-a-mole](https://github.com/yatesra/JS-Practice-Whac-a-Mole)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: February 27, 2022 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, 
-but I managed to figure out some basic functionality.
+**Today's Progress**: Tried to fix the error in my JS tutorial project (Whac-a-Mole) I had lots of syntax errors like extra operators, misspelled words, and incorrectly named class or elements (?). While I got it to function way better and catch on to a few patterns, it's still v broken.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts**: I felt like I had maybe 2 connections when I had problems with my code. I'm almost glad it didn't work the first time because then I had to hunt for what was wrong and that forced me to get familiar with the code, especially js.
+
+**Link to work:** [Whac-a-mole](https://github.com/yatesra/JS-Practice-Whac-a-Mole)
 
 
 
