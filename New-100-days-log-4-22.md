@@ -62,7 +62,7 @@ I also had a problem with Github; I tried to push my folders through VSCode exte
 
 **Link to work:** [Whac-a-mole](https://github.com/yatesra/JS-Practice-Whac-a-Mole)
 
-### Day 2: February 27, 2022 
+### Day 2: April 27, 2022 
 
 
 **Today's Progress**: Tried to fix the error in my JS tutorial project (Whac-a-Mole) I had lots of syntax errors like extra operators, misspelled words, and incorrectly named class or elements (?). While I got it to function way better and catch on to a few patterns, it's still v broken.
@@ -70,6 +70,18 @@ I also had a problem with Github; I tried to push my folders through VSCode exte
 **Thoughts**: I felt like I had maybe 2 connections when I had problems with my code. I'm almost glad it didn't work the first time because then I had to hunt for what was wrong and that forced me to get familiar with the code, especially js.
 
 **Link to work:** [Whac-a-mole](https://github.com/yatesra/JS-Practice-Whac-a-Mole)
+
+
+### Day 3: April 27, 2022 
+
+
+**Today's Progress**: Switched it up and practiced a different project from the Ania Kubrow JS games series. This one was rock paper scissors and it went better than WAM but still buggy.
+
+**Thoughts**: Was able to recognize more errors quicker today.
+
+**Link to work:** 
+
+
 
 
 
