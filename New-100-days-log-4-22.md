@@ -83,5 +83,13 @@ I also had a problem with Github; I tried to push my folders through VSCode exte
 
 
 
+### Day 4: April 28, 2022 
+
+
+**Today's Progress**: I worked on my RPS project, finished it and now my buttons produce no output. Verys stuck. Have been searching for the error for 45 minutes!
+
+**Thoughts**: This is good because it helps me focus on carefully coding and finding bugs.
+
+**Link to work:** 
 
 
