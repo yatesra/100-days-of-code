@@ -72,7 +72,7 @@ I also had a problem with Github; I tried to push my folders through VSCode exte
 **Link to work:** [Whac-a-mole](https://github.com/yatesra/JS-Practice-Whac-a-Mole)
 
 
-### Day 3: April 27, 2022 
+### Day 3: April 28, 2022 
 
 
 **Today's Progress**: Switched it up and practiced a different project from the Ania Kubrow JS games series. This one was rock paper scissors and it went better than WAM but still buggy.
@@ -83,7 +83,7 @@ I also had a problem with Github; I tried to push my folders through VSCode exte
 
 
 
-### Day 4: April 28, 2022 
+### Day 4: April 29, 2022 
 
 
 **Today's Progress**: I worked on my RPS project, finished it and now my buttons produce no output. Verys stuck. Have been searching for the error for 45 minutes!
@@ -91,5 +91,16 @@ I also had a problem with Github; I tried to push my folders through VSCode exte
 **Thoughts**: This is good because it helps me focus on carefully coding and finding bugs.
 
 **Link to work:** 
+
+
+### Day 5: April 30, 2022 
+
+
+**Today's Progress**: I finally got my RPS project to work. 
+
+**Thoughts**: During the project tutorial, the instructor made a mistake and because I was switching from coding and watching, I missed when she fixed it. That resulted in hours and hours of trying to compare and fix the code. The issue was putting spaces in an ***ID*** class value within the quotes when that is not allowed, it is allowed for class which is what I've used more of, so that's another reason why I didn't catch it. I might have to switch tutorials I didn't question my mistakes because I watched the instructor do them and yet, my code didn't work. I need to learn the rules better to catch that AND watch an instructor who verbalizes there mistakes and why they are bad. To be fair, Ania did say "oops, not there" when she put th espaces in the wrong place and promptly corrected it. I just missed it.
+
+**Link to work:** 
+
 
 
