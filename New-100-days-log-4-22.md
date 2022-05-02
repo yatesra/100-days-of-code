@@ -103,4 +103,13 @@ I also had a problem with Github; I tried to push my folders through VSCode exte
 **Link to work:** 
 
 
+### Day 6: May 1, 2022 
 
+
+**Today's Progress**: Happy May! Worked on a product landing page on FreeCodecamp.
+
+**Thoughts**: This project was an unfinished one from 2021. I had 5/16 of the user stories done ( what freecodecamp required for the project to be fulfilled so see it as points) and was very overwhelmed with my practice by then. I felt like I didn't even know what I was looking at. Now, I was excited to revisit with new motvation and actually understnading way more of what I couldn't recognize before. I have 4/16 on the user stories because I was moving things around but I think I can finish this by tomorrow.
+
+**Link to work:** 
+
+https://codepen.io/yatesra/pen/JjNPQyb?editors=1100
