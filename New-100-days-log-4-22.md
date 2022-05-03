@@ -113,3 +113,15 @@ I also had a problem with Github; I tried to push my folders through VSCode exte
 **Link to work:** 
 
 https://codepen.io/yatesra/pen/JjNPQyb?editors=1100
+
+
+### Day 7: May 2, 2022 
+
+
+**Today's Progress**: I worked on a product landing page on FreeCodeCamp.
+
+**Thoughts**: I said I would finish this but they day just escaped me. I was so tired. But I did able to do work and explore and I had a lot of fun. I genuinely feel good about finishing this and will be really proud when I do. Divs were more approachable today and I was able to make things work with CSS with trial and error, but in a fruitful wasy where I learned.
+
+**Link to work:** 
+
+https://codepen.io/yatesra/pen/JjNPQyb?editors=1100
