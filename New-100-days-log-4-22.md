@@ -125,3 +125,15 @@ https://codepen.io/yatesra/pen/JjNPQyb?editors=1100
 **Link to work:** 
 
 https://codepen.io/yatesra/pen/JjNPQyb?editors=1100
+
+
+### Day 8: May 3, 2022 
+
+
+**Today's Progress**: I worked on a product landing page on FreeCodeCamp.
+
+**Thoughts**: Today was extremely busy and my mind was not into coding. I worked on my page but truly code not focus and barely did anything. I'm also annoyed that github for contributions don't count as my daily contribution, there is probably a better reason than just preventing me from putting a green square on a heatmap but still. I have an important interview tomorrow that was not expected to be scheduled this week and I will be so glad once its done so I don't have to think about it any more. I did some mimo tod
+
+**Link to work:** 
+
+https://codepen.io/yatesra/pen/JjNPQyb?editors=1100
